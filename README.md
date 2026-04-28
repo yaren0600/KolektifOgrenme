@@ -43,4 +43,4 @@ Veri seti, 188 hastadan alınan 756 ses kaydı içermektedir. Veriler; temel ses
 
 Bu çalışma, Bilgisayar Mühendisliği Yüksek Lisans düzeyi veri bilimi çalışmaları kapsamında hazırlanmıştır.
 
-Begüm Yaren ÖZTÜRK 
+Begüm Yaren ÖZTÜRK...
