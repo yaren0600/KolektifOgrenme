@@ -22,7 +22,7 @@ Projede Bagging (Random Forest) ve Boosting (Gradient Boosting) yaklaşımları 
 
 Gradient Boosting (GBM): Hatalardan ders çıkaran ardışıl yapısı sayesinde Parkinson teşhisindeki ince detayları yakalamada en yüksek başarıyı (%86.8) sergilemiştir.
 
-📊 Sonuçlar ve Değerlendirme
+📊 Sonuçlar ve Değerlendirme:
 <img width="832" height="249" alt="image" src="https://github.com/user-attachments/assets/e347bd43-9e52-4036-9ec8-b939571ad42f" />
 
 Hata Matrisi (Confusion Matrix)
