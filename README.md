@@ -1,5 +1,5 @@
 🧠 Parkinson's Disease Classification via Ensemble Learning
-Bu proje, Parkinson hastalarından alınan ses kayıtlarından elde edilen öznitelikleri kullanarak, kolektif öğrenme (Ensemble Learning) yöntemleriyle teşhis tahmini yapmaktadır. Projenin ana odak noktası, yüksek boyutlu verilerde (750+ özellik) veri önişleme ve özellik seçiminin model başarısı ve açıklanabilirliği üzerindeki etkisini incelemektir.
+Bu proje, Parkinson hastalarından alınan ses kayıtlarından elde edilen öznitelikleri kullanarak, kolektif öğrenme (Ensemble Learning) yöntemleriyle teşhis tahmini yapmaktadır. Projenin ana odak noktası, yüksek boyutlu verilerde (750+ özellik) veri önişleme ve özellik seçiminin model başarısı ve açıklanabilirliği üzerindeki etkisini incelemektir..
 
 📌 Proje Motivasyonu ve Mühendislik Yaklaşımı
 Bu veri setinde karşılaşılan en büyük zorluk "Boyut Laneti" (Curse of Dimensionality) problemidir. Veri setinde 756 örneklem varken 750'den fazla özellik bulunmaktadır. Bu durum modelin gürültüyü (noise) öğrenmesine ve ezber yapmasına (overfitting) neden olur.
