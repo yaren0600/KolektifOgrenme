@@ -11,6 +11,7 @@ ID Temizliği: id sütunu, modelin hastayı özelliklerinden değil sırasından
 Ölçeklendirme (Standardization): Ses öznitelikleri (TQWT, MFCC, PPE) çok farklı sayısal aralıklardadır. Gradient tabanlı modellerin (Boosting gibi) kararlı çalışması için StandardScaler ile tüm veriler ortalaması 0, standart sapması 1 olacak şekilde normalize edilmiştir.
 
 2. Özellik Seçimi (Feature Selection)
+   
 Neden Yapıldı? Gereksiz ve birbirini tekrar eden (redundant) özellikleri eleyerek modelin genelleme yeteneğini artırmak amaçlanmıştır.
 
 Yöntem: Kolektif modellerin (Random Forest / Gradient Boosting) sunduğu "Feature Importance" skorları kullanılarak en etkili 100 özellik seçilmiştir.
