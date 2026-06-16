@@ -218,6 +218,7 @@ Bir özelliğin test setinde karıştırılması sonucu ROC-AUC'ta oluşan düş
 - Pedregosa, F., et al. (2011). *Scikit-learn: Machine learning in Python.* JMLR, 12, 2825–2830.
 - [fedesoriano — Stroke Prediction Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 
+
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
@@ -228,5 +229,7 @@ Bir özelliğin test setinde karıştırılması sonucu ROC-AUC'ta oluşan düş
 ![NumPy](https://img.shields.io/badge/NumPy-2.4-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.13-4C72B0?style=flat)
+
+
 
  
